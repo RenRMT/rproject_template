@@ -1,0 +1,7 @@
+^\.github$
+^\.gitignore$
+^\.Rprofile$
+^\.lintr$
+^README\.md$
+^LICENSE\.md$
+^\.claude$
